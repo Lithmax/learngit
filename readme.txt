@@ -10,3 +10,4 @@ Creating a new branch is very quick & simple.
 Creating a new branch is very quick.
 Creating a new branch is quick AND simple.
 >>>>>>> feature1
+Try to learn manage merge.
